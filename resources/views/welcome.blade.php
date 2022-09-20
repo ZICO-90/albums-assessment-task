@@ -42,7 +42,35 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                <p>Thank you, I learned something new through this task</p>
-               <strong>I'm so sorry that I'm late deadline</strong>
+               <p>i received  task <time>thursday 4:42 pm </time> Deadline : <time> Friday at 6 pm</time> the time it took Sunday  at 6 pm
+                </p>
+               <strong>I'm so sorry that I'm late deadline</strong> <br>
+               <strong><li>this is your coding assessment task.requirements:</li> </strong>
+               <p>
+                <ol>
+                    <li>user can create an album</li>
+                    <li>user can edit any album</li>
+                    <li>user can delete an album</li>
+                    <li>the album has a name and one or more pictures</li>
+                    <li>each picture in the album has a name</li>
+                    <li>
+                        if the user tries to delete a non-empty album the system will give two choices:
+                    <ul>
+                        <li>delete all the pictures in the album</li>
+                        <li>move the pictures to another album</li>
+                        <li>the user experience should be as easy as possible</li>
+                    </ul> 
+                    </li>
+
+                </ol>
+                </p>
+                <strong><li>you are free to use these packages but nothing else</li> </strong>
+                <ol>
+                    <li>jquery</li>
+                    <li>dropzone.js</li>
+                    <li>filepond.js</li>
+                    <li>Laravel-medialibrary</li>
+                </ol>
             </div>
         </div>
     </body>
